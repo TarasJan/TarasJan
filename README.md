@@ -1,5 +1,5 @@
 ## @TarasJan - Jan Taras
-Software Developer - writing awesome Rails apps @ [Zendesk](github/com/zendesk)
+Software Developer - writing awesome Rails apps @ [Tjekvik](https://www.tjekvik.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarasJan)
 
